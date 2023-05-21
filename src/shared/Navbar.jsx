@@ -24,7 +24,7 @@ const Navbar = () => {
                             </ul>
                         </div>
                         <Link to="/" className="btn btn-ghost btn-active normal-case text-lg md:text-2xl font-bold" >
-                            Edu-Consultant
+                            Edu-Consultant BD
                         </Link>
                     </div>
 
