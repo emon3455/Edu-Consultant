@@ -18,14 +18,14 @@ const About = () => {
                     {/* <ActiveLink to="/allToys">
                         <button className="btn btn-warning font-bold">View All Topics</button>
                     </ActiveLink> */}
-                    <button className="btn btn-warning font-bold">Read More</button>
+                    <button className="btn btn-warning font-bold btn-sm">Read More</button>
                 </div>
                 <div className="w-full h-96 order-1" data-aos="flip-up" data-aos-easing="linear" data-aos-duration="1500">
                     <Lottie className="w-full h-full" animationData={about} loop={true} />
                 </div>
             </div>
 
-            <div className="my-5 rounded-xl shadow-2xl mx-auto max-w-5xl grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
+            <div className="my-5 rounded-xl shadow-2xl mx-auto max-w-5xl grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">
 
                 <div className="p-2 border-b-2 md:border-r-2">
                     <div className="stat-figure text-secondary">

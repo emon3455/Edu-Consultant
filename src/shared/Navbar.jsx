@@ -4,7 +4,7 @@ import ActiveLink from "../components/ActiveLink";
 const Navbar = () => {
 
     return (
-        <header className="bg-opacity-60 bg-sky-100 bg-blend-multiply fixed top-0 z-30 w-full">
+        <header className="bg-opacity-60 w-full bg-sky-100 bg-blend-multiply fixed top-0 z-30">
             <div className="container mx-auto">
                 <div className="navbar">
                     <div className="navbar-start">
